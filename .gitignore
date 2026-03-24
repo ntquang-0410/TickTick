@@ -1,0 +1,17 @@
+# Bỏ qua các file build
+/build
+/*/build
+*.iml
+.gradle
+/local.properties
+
+# Bỏ qua cấu hình riêng của IDE
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/caches
+.idea
+
+# Bỏ qua file log và file tạm
+*.log
+captures/
